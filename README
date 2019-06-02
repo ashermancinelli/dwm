@@ -1,3 +1,8 @@
+My DWM Fork
+============================
+Contains all the patches for my dwm configuration already built in.
+Right now, I only have gaps patched in, working on more.
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
