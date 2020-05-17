@@ -1,0 +1,5 @@
+#cmakedefine VERSION "@VERSION@"
+#cmakedefine _DEFAULT_SOURCE
+#cmakedefine _BSD_SOURCE
+#cmakedefine _POSIX_C_SOURCE
+#cmakedefine XINERAMA
